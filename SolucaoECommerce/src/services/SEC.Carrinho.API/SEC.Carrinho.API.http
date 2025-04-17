@@ -1,0 +1,6 @@
+@SEC.Carrinho.API_HostAddress = http://localhost:5212
+
+GET {{SEC.Carrinho.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,81 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.swp
+
+## Visual Studio Code
+.vscode/
+
+## Rider
+.idea/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## NuGet
+*.nupkg
+*.snupkg
+# The packages folder can be ignored if package restore is enabled
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.deps.json
+
+## Runtime-generated files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.config
+*.dbmdl
+*.bak
+*.bak.*
+*.sql
+*.mdf
+*.ldf
+
+## Web-specific
+wwwroot/
+*.publish.xml
+*.pubxml
+*.Publish.xml
+*.PublishSettings
+node_modules/
+bower_components/
+bundleconfig.json
+
+## Deployment
+*.azurePubxml
+*.azurePubxml.user
+.publish/
+
+## Others
+_ReSharper*/
+*.DotSettings.user
+*.vs/
+TestResults/
+.vs/
+
+## Logs
+*.log
+
+## Temporary
+~$*
+*.tmp
+
+## OS-specific
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+@SEC.Pedido.API_HostAddress = http://localhost:5143
+
+GET {{SEC.Pedido.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
